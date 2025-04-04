@@ -1,6 +1,6 @@
-# Simple Image Filter Web Application
+# Basic Image Filter Web Application
 
-This repository contains a simple web application that allows users to upload an image and apply grayscale or sepia filters using JavaScript and the HTML5 Canvas API.
+This repository contains a basic web application that allows users to upload an image and apply grayscale or sepia filters using JavaScript and the HTML5 Canvas API.
 
 # Features:
 
