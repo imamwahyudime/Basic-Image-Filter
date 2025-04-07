@@ -20,6 +20,6 @@ This repository contains a basic web application that allows users to upload an 
 3.  Enjoy!
 
 
-## Contributing
+## Contributing:
 
 Contributions are welcome! Please feel free to submit pull requests or open issues.
